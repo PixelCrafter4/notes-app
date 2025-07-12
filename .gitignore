@@ -9,5 +9,5 @@ frontend/my-project/node_modules
 backend/.env
 frontend/.env
 
-# Build folders (optional)
+# Build folders
 frontend/my-project/dist
